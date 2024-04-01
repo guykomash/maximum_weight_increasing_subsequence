@@ -1,0 +1,516 @@
+Reading data from Sheet: square_10000_samples_V0
+---------Running with sum of regular weights...
+Calculating W =  203
+running iteration [1]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 20 sec
+running iteration [2]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 37 sec
+running iteration [3]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 53 sec
+running iteration [4]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 70 sec
+Iterations Completed!
+running time : 73.29619669914246
+In 4 iterations: total weight increase: 10000 -> 12746
+Max chain weight (W) sanity check : first iteration = 203, after 4 iterations = 203 
+---------Running with sum of squared weights..
+Calculating W =  203
+running iteration [1]
+1. get_set_of_points_on_heaviest_chains_squared()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights_squared()
+time_passed: 21 sec
+running iteration [2]
+1. get_set_of_points_on_heaviest_chains_squared()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights_squared()
+time_passed: 39 sec
+running iteration [3]
+1. get_set_of_points_on_heaviest_chains_squared()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights_squared()
+time_passed: 57 sec
+running iteration [4]
+1. get_set_of_points_on_heaviest_chains_squared()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights_squared()
+time_passed: 76 sec
+Iterations Completed!
+running time : 79.93467879295349
+In 4 iterations: total weight increase: 10000 -> 10124
+Max chain weight (W) sanity check : first iteration = 203, after 4 iterations = 203 
+Reading data from Sheet: rhombus_10000_samples_V0
+---------Running with sum of regular weights...
+Calculating W =  144
+running iteration [1]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 21 sec
+running iteration [2]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 38 sec
+running iteration [3]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 56 sec
+running iteration [4]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 73 sec
+Iterations Completed!
+running time : 76.27239918708801
+In 4 iterations: total weight increase: 10000 -> 12782
+Max chain weight (W) sanity check : first iteration = 144, after 4 iterations = 144 
+---------Running with sum of squared weights..
+Calculating W =  144
+running iteration [1]
+1. get_set_of_points_on_heaviest_chains_squared()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights_squared()
+time_passed: 22 sec
+running iteration [2]
+1. get_set_of_points_on_heaviest_chains_squared()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights_squared()
+time_passed: 40 sec
+running iteration [3]
+1. get_set_of_points_on_heaviest_chains_squared()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights_squared()
+time_passed: 59 sec
+Iterations Completed!
+running time : 62.099282026290894
+In 3 iterations: total weight increase: 10000 -> 10088
+Max chain weight (W) sanity check : first iteration = 144, after 3 iterations = 144 
+Reading data from Sheet: square_10000_samples_V1
+---------Running with sum of regular weights...
+Calculating W =  193
+running iteration [1]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 20 sec
+running iteration [2]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 37 sec
+running iteration [3]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 54 sec
+running iteration [4]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 72 sec
+Iterations Completed!
+running time : 74.81742310523987
+In 4 iterations: total weight increase: 10000 -> 12839
+Max chain weight (W) sanity check : first iteration = 193, after 4 iterations = 193 
+---------Running with sum of squared weights..
+Calculating W =  193
+running iteration [1]
+1. get_set_of_points_on_heaviest_chains_squared()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights_squared()
+time_passed: 22 sec
+running iteration [2]
+1. get_set_of_points_on_heaviest_chains_squared()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights_squared()
+time_passed: 40 sec
+running iteration [3]
+1. get_set_of_points_on_heaviest_chains_squared()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights_squared()
+time_passed: 58 sec
+running iteration [4]
+1. get_set_of_points_on_heaviest_chains_squared()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights_squared()
+time_passed: 76 sec
+Iterations Completed!
+running time : 79.52343583106995
+In 4 iterations: total weight increase: 10000 -> 10110
+Max chain weight (W) sanity check : first iteration = 193, after 4 iterations = 193 
+Reading data from Sheet: rhombus_10000_samples_V1
+---------Running with sum of regular weights...
+Calculating W =  147
+running iteration [1]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 19 sec
+running iteration [2]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 36 sec
+running iteration [3]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 53 sec
+running iteration [4]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 71 sec
+Iterations Completed!
+running time : 73.64229798316956
+In 4 iterations: total weight increase: 10000 -> 12787
+Max chain weight (W) sanity check : first iteration = 147, after 4 iterations = 147 
+---------Running with sum of squared weights..
+Calculating W =  147
+running iteration [1]
+1. get_set_of_points_on_heaviest_chains_squared()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights_squared()
+time_passed: 22 sec
+running iteration [2]
+1. get_set_of_points_on_heaviest_chains_squared()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights_squared()
+time_passed: 39 sec
+running iteration [3]
+1. get_set_of_points_on_heaviest_chains_squared()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights_squared()
+time_passed: 57 sec
+running iteration [4]
+1. get_set_of_points_on_heaviest_chains_squared()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights_squared()
+time_passed: 74 sec
+Iterations Completed!
+running time : 76.87674236297607
+In 4 iterations: total weight increase: 10000 -> 10123
+Max chain weight (W) sanity check : first iteration = 147, after 4 iterations = 147 
+Reading data from Sheet: square_10000_samples_V2
+---------Running with sum of regular weights...
+Calculating W =  188
+running iteration [1]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 19 sec
+running iteration [2]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 36 sec
+running iteration [3]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 52 sec
+running iteration [4]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 68 sec
+Iterations Completed!
+running time : 71.4604184627533
+In 4 iterations: total weight increase: 10000 -> 12786
+Max chain weight (W) sanity check : first iteration = 188, after 4 iterations = 188 
+---------Running with sum of squared weights..
+Calculating W =  188
+running iteration [1]
+1. get_set_of_points_on_heaviest_chains_squared()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights_squared()
+time_passed: 22 sec
+running iteration [2]
+1. get_set_of_points_on_heaviest_chains_squared()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights_squared()
+time_passed: 40 sec
+running iteration [3]
+1. get_set_of_points_on_heaviest_chains_squared()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights_squared()
+time_passed: 58 sec
+running iteration [4]
+1. get_set_of_points_on_heaviest_chains_squared()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights_squared()
+time_passed: 75 sec
+Iterations Completed!
+running time : 78.67654180526733
+In 4 iterations: total weight increase: 10000 -> 10123
+Max chain weight (W) sanity check : first iteration = 188, after 4 iterations = 188 
+Reading data from Sheet: rhombus_10000_samples_V2
+---------Running with sum of regular weights...
+Calculating W =  144
+running iteration [1]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 19 sec
+running iteration [2]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 35 sec
+running iteration [3]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 52 sec
+running iteration [4]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 68 sec
+Iterations Completed!
+running time : 71.39491152763367
+In 4 iterations: total weight increase: 10000 -> 12684
+Max chain weight (W) sanity check : first iteration = 144, after 4 iterations = 144 
+---------Running with sum of squared weights..
+Calculating W =  144
+running iteration [1]
+1. get_set_of_points_on_heaviest_chains_squared()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights_squared()
+time_passed: 21 sec
+running iteration [2]
+1. get_set_of_points_on_heaviest_chains_squared()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights_squared()
+time_passed: 38 sec
+running iteration [3]
+1. get_set_of_points_on_heaviest_chains_squared()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights_squared()
+time_passed: 56 sec
+running iteration [4]
+1. get_set_of_points_on_heaviest_chains_squared()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights_squared()
+time_passed: 73 sec
+Iterations Completed!
+running time : 76.34833002090454
+In 4 iterations: total weight increase: 10000 -> 10127
+Max chain weight (W) sanity check : first iteration = 144, after 4 iterations = 144 
+Reading data from Sheet: square_10000_samples_V3
+---------Running with sum of regular weights...
+Calculating W =  194
+running iteration [1]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 19 sec
+running iteration [2]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 36 sec
+running iteration [3]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 52 sec
+running iteration [4]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 69 sec
+Iterations Completed!
+running time : 72.32927918434143
+In 4 iterations: total weight increase: 10000 -> 12808
+Max chain weight (W) sanity check : first iteration = 194, after 4 iterations = 194 
+---------Running with sum of squared weights..
+Calculating W =  194
+running iteration [1]
+1. get_set_of_points_on_heaviest_chains_squared()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights_squared()
+time_passed: 21 sec
+running iteration [2]
+1. get_set_of_points_on_heaviest_chains_squared()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights_squared()
+time_passed: 39 sec
+running iteration [3]
+1. get_set_of_points_on_heaviest_chains_squared()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights_squared()
+time_passed: 56 sec
+running iteration [4]
+1. get_set_of_points_on_heaviest_chains_squared()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights_squared()
+time_passed: 74 sec
+Iterations Completed!
+running time : 77.20402121543884
+In 4 iterations: total weight increase: 10000 -> 10137
+Max chain weight (W) sanity check : first iteration = 194, after 4 iterations = 194 
+Reading data from Sheet: rhombus_10000_samples_V3
+---------Running with sum of regular weights...
+Calculating W =  145
+running iteration [1]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 19 sec
+running iteration [2]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 36 sec
+running iteration [3]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 52 sec
+running iteration [4]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 68 sec
+Iterations Completed!
+running time : 71.12648129463196
+In 4 iterations: total weight increase: 10000 -> 12809
+Max chain weight (W) sanity check : first iteration = 145, after 4 iterations = 145 
+---------Running with sum of squared weights..
+Calculating W =  145
+running iteration [1]
+1. get_set_of_points_on_heaviest_chains_squared()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights_squared()
+time_passed: 21 sec
+running iteration [2]
+1. get_set_of_points_on_heaviest_chains_squared()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights_squared()
+time_passed: 38 sec
+running iteration [3]
+1. get_set_of_points_on_heaviest_chains_squared()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights_squared()
+time_passed: 56 sec
+Iterations Completed!
+running time : 59.008363246917725
+In 3 iterations: total weight increase: 10000 -> 10112
+Max chain weight (W) sanity check : first iteration = 145, after 3 iterations = 145 
+Reading data from Sheet: square_10000_samples_V4
+---------Running with sum of regular weights...
+Calculating W =  190
+running iteration [1]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 19 sec
+running iteration [2]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 36 sec
+running iteration [3]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 53 sec
+running iteration [4]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 69 sec
+Iterations Completed!
+running time : 72.21625995635986
+In 4 iterations: total weight increase: 10000 -> 12794
+Max chain weight (W) sanity check : first iteration = 190, after 4 iterations = 190 
+---------Running with sum of squared weights..
+Calculating W =  190
+running iteration [1]
+1. get_set_of_points_on_heaviest_chains_squared()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights_squared()
+time_passed: 21 sec
+running iteration [2]
+1. get_set_of_points_on_heaviest_chains_squared()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights_squared()
+time_passed: 39 sec
+running iteration [3]
+1. get_set_of_points_on_heaviest_chains_squared()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights_squared()
+time_passed: 57 sec
+running iteration [4]
+1. get_set_of_points_on_heaviest_chains_squared()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights_squared()
+time_passed: 75 sec
+Iterations Completed!
+running time : 77.92614126205444
+In 4 iterations: total weight increase: 10000 -> 10131
+Max chain weight (W) sanity check : first iteration = 190, after 4 iterations = 190 
+Reading data from Sheet: rhombus_10000_samples_V4
+---------Running with sum of regular weights...
+Calculating W =  141
+running iteration [1]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 19 sec
+running iteration [2]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 36 sec
+running iteration [3]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 52 sec
+running iteration [4]
+1. get_set_of_points_on_heaviest_chains()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights()
+time_passed: 69 sec
+Iterations Completed!
+running time : 71.9073326587677
+In 4 iterations: total weight increase: 10000 -> 12760
+Max chain weight (W) sanity check : first iteration = 141, after 4 iterations = 141 
+---------Running with sum of squared weights..
+Calculating W =  141
+running iteration [1]
+1. get_set_of_points_on_heaviest_chains_squared()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights_squared()
+time_passed: 21 sec
+running iteration [2]
+1. get_set_of_points_on_heaviest_chains_squared()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights_squared()
+time_passed: 39 sec
+running iteration [3]
+1. get_set_of_points_on_heaviest_chains_squared()
+10.0% 20.0% 30.0% 40.0% 50.0% 60.0% 70.0% 80.0% 90.0% 100.0%
+2. update_points_weights_squared()
+time_passed: 57 sec
+Iterations Completed!
+running time : 60.107219219207764
+In 3 iterations: total weight increase: 10000 -> 10085
+Max chain weight (W) sanity check : first iteration = 141, after 3 iterations = 141 
+Total time: 25.099 minutes.

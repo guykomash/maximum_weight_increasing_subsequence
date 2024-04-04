@@ -100,13 +100,12 @@ def get_set_of_points_on_heaviest_chains(points, weights_map):
     # KEY = point , VALUE = (_w, set()) . this is the returned map.
     point_set_map = {}
 
-    """
-    Iterate from end to start.
-    for each point (point_i) calculate the following:
-    1. iset = set of all points that are on one of the heaviest weight chains starting from point_i.
-    2. _w = weight of the heaviest chains.
-    
-    """
+
+    # Iterate from end to start.
+    # for each point (point_i) calculate the following:
+    # 1. iset = set of all points that are on one of the heaviest weight chains starting from point_i.
+    # 2. _w = weight of the heaviest chains.
+
     for i in range(len(points) - 1, -1, -1):
         # for printing.
         perc = 100 - (i / len(points)) * 100
@@ -122,7 +121,6 @@ def get_set_of_points_on_heaviest_chains(points, weights_map):
                 # point_j is a comparable bigger point!
                 if (value := point_set_map.get(points[j])) is not None:
                     # point_j has been found.
-                    # value = (point_j_w ,jset)
                     jweight = value[0]
                     _w = max(_w, jweight)
 
@@ -411,7 +409,7 @@ if __name__ == "__main__":
         print(f"Reading data from Sheet: {sheet_name}")
         weighted_points_map = run(points)
         squared_weighted_points_map = run(points, squared=True)
-        write_output(original_points,weighted_points_map, squared_weighted_points_map,sheet_name)
+        # write_output(original_points,weighted_points_map, squared_weighted_points_map,sheet_name)
     total_time_minutes = (time.time() - strart_time) / 60
 
     print(f"Total time: {total_time_minutes:.3f} minutes.")
